@@ -1,0 +1,3 @@
+﻿  5.5.cpp
+C:\Users\Roman\Desktop\лаба автоматизація\коди\5.5\5.5.cpp(27,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  5.5.vcxproj -> C:\Users\Roman\Desktop\лаба автоматизація\коди\5.5\x64\Debug\5.5.exe
